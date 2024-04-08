@@ -1,0 +1,32 @@
+*{
+    margin:0 auto;
+}
+
+.bg{
+    height:1300px;
+    width:500px;
+    background-color:black;
+    border:15px solid grey; 
+    
+}
+.light{
+    height:300px;
+    width:300px;
+    margin:100px;
+    border-radius:50%;
+    display:grid;
+    place-items:center;
+    
+}
+a{
+    text-decoration:none;
+    
+}
+p{
+    font-size:65px;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    text-shadow: 1px 1px 1px rgb(0,0,0);
+
+    
